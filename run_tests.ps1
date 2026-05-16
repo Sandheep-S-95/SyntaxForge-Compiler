@@ -1,3 +1,5 @@
+# powershell -ExecutionPolicy Bypass -File .\run_tests.ps1
+
 Write-Host "Running valid test..."
 Copy-Item tests\valid_1.txt input.txt
 .\compiler.exe
