@@ -84,7 +84,7 @@ If you want to modify the source code, you can build it natively.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Sandheep-S-95/SyntaxForge-Compiler.git](https://github.com/Sandheep-S-95/SyntaxForge-Compiler.git)
+git clone https://github.com/Sandheep-S-95/SyntaxForge-Compiler.git
 cd SyntaxForge-Compiler
 
 # Compile the project
@@ -119,4 +119,4 @@ SyntaxForge-Compiler/
 ## 📜 License
 This project is open for educational and research purposes.
 
-*Built with ❤️ using Modern C++ and fully automated CI/CD.*
+*Built using Modern C++ and fully automated CI/CD.*
