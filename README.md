@@ -74,7 +74,7 @@ You do not need to install C++ or any dependencies to run the compiler. Simply p
    ```
 2. Run the compiler container:
    ```bash
-   docker run --rm -v "${PWD}/input.txt:/app/input.txt" <YOUR_DOCKERHUB_USERNAME>/earley-compiler
+   docker run --rm -v "${PWD}/input.txt:/app/input.txt" sandheep95/earley-compiler
    ```
 
 ### Option 2: Build Locally from Source
